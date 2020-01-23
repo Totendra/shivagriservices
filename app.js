@@ -10,7 +10,7 @@ app.use(express.static("public"));
 app.set("view engine","ejs");
 
 // Listening port 
-const  PORT = 8080 || process.env.PORT ;
+const  PORT = process.env.PORT ;
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
 
 //Routes to status page
