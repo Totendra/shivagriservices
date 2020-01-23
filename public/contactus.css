@@ -1,0 +1,40 @@
+.container legend {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.form-horizontal {
+	width: 85%;
+	margin: 50 auto 50 auto;
+	padding: 10px;
+}
+
+body{
+	/* background-image: url('contactbg.jpg'); */
+	background-size: cover;
+}
+
+ .bg1{
+	
+	margin: auto;
+	margin-top: 100px;
+	/* background-color: #ffdbdb; */
+} 
+
+html,body{
+    height: 100%
+}
+
+  
+footer {
+	bottom: -50px;
+	height: 50px;
+	left: 0;
+	position: absolute;
+	right: 0;
+  }
+
+/* .container{
+	margin-top: 60px;
+} */
